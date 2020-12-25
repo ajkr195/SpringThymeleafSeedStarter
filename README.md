@@ -1,3 +1,3 @@
-# SpringThymeleafSeedStarter
+# SpringThymeleafSeedStarter - Reactive
 
-# Spring Thymeleaf Seed Starter Manager - Reactive
+Spring Thymeleaf Seed Starter Manager
